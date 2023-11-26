@@ -1,5 +1,5 @@
 # Spring-Boot-Todo-App
-Overview
+## Overview
 This Spring Boot Todo App provides a comprehensive platform for managing tasks with user authentication and a user-friendly interface. The project incorporates Java, Spring Boot, Spring Security, JPA, and Bootstrap to create a robust and visually appealing application.
 
 ## Features
